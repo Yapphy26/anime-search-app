@@ -23,8 +23,8 @@
 
 ### Prerequisites
 
-- React.js (v19.1.1 or later)
-- Node.js (v18.18.0 or later)
+- React.js (v19.2.3 or later) (Upgrade React: `npm install react@latest react-dom@latest`)
+- Node.js (v24.12.0 or later)
 - npm
 
 ### Installation
